@@ -4,4 +4,7 @@
     <string name="hint">Enter search query</string>
     <string name="search">Search</string>
     <string name="title_activity_article">ArticleActivity</string>
+    <string name="tv">TextView</string>
+    <string name="share">Share</string>
+    <string name="contDescrip">This is the ImageView</string>
 </resources>

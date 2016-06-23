@@ -8,7 +8,8 @@
         android:layout_height="75dp"
         android:id="@+id/ivImage"
         android:src="@mipmap/ic_launcher"
-        android:scaleType="center" />
+        android:scaleType="center"
+        android:contentDescription="@string/contDescrip" />
     
     <TextView
         android:id="@+id/tvTitle"
@@ -16,6 +17,6 @@
         android:layout_height="wrap_content"
         android:maxLines="2"
         android:ellipsize="end"
-        android:text="TextView" />
+        android:text="@string/tv" />
     
 </LinearLayout>

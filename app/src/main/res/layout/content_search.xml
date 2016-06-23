@@ -12,6 +12,17 @@
     tools:context=".activities.SearchActivity"
     tools:showIn="@layout/activity_search">
 
+    <GridView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gvResults"
+        android:layout_centerHorizontal="true"
+        android:numColumns="4" />
+
+</RelativeLayout>
+
+    <!-- Originally above GridView -->
+    <!--
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -20,15 +31,12 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:onClick="onArticleSearch" />
+    -->
 
-    <GridView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/gvResults"
+    <!-- Originally below id gvResults
         android:layout_below="@+id/btnSearch"
-        android:layout_centerHorizontal="true"
-        android:numColumns="4" />
-
+    -->
+    <!--
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -39,4 +47,4 @@
         android:layout_toLeftOf="@+id/btnSearch"
         android:layout_toStartOf="@+id/btnSearch"
         android:hint="@string/hint" />
-</RelativeLayout>
+    -->

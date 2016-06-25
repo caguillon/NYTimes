@@ -7,4 +7,22 @@
     <string name="tv">TextView</string>
     <string name="share">Share</string>
     <string name="contDescrip">This is the ImageView</string>
+    <string name="Arts">Arts</string>
+    <string name="FashionAndStyle">Fashion &amp; Style</string>
+    <string name="Sports">Sports</string>
+    <string name="NewsDeskValues">News Desk Values</string>
+    <string name="BeginDate">Begin Date</string>
+    <string name="date">Type date here...</string>
+    <string name="SortOrder">Sort Order</string>
+    <string name="SaveFilter">Save</string>
+
+    <string-array name="spinnerOptions">
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+
 </resources>
+
+<!-- to give spinner options...
+
+-->

@@ -48,7 +48,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 The most challegning part was creating a functioning filter. I was able to set it up, but I was
-not able to implement parcelable in order to pass the data (the filter attributes).
+not able to implement parcelable, in order to pass the data (the filter attributes), in time.
 
 ## Open-source libraries used
 
